@@ -1,0 +1,7 @@
+Types of Data Science Questions
+ - Descriptive: describe a set of data
+ - Explorative: find relationships you didn't know about
+ - Inferential analysis: use a relatively small sample of data to say smth about a bigger population
+ - Predictive analysis: To use the data on some objects to predict values for another object
+ - Causal analysis: to find out what happens to one variable when you make another variable change
+ - Mechanistic analysis: understand the exact changes in variables that lead to changes in other variables for individual objects.
